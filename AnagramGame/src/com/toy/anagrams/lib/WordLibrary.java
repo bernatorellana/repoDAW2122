@@ -32,6 +32,8 @@ public abstract class WordLibrary {
      * Constructor for subclasses.
      */
     protected WordLibrary() {
+
+		System.out.println("Els divendres són un caos (programador A)");
 		int i=0;
 		for(int n=0;n<i;n++) {
 		}
