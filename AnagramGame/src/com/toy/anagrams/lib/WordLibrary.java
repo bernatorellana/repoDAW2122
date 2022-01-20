@@ -32,6 +32,9 @@ public abstract class WordLibrary {
      * Constructor for subclasses.
      */
     protected WordLibrary() {
+		int i=0;
+		for(int n=0;n<i;n++) {
+		}
     }
     
     /** Getter for the default implementation of the WordLibrary.
