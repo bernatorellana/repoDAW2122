@@ -32,6 +32,7 @@ public abstract class WordLibrary {
      * Constructor for subclasses.
      */
     protected WordLibrary() {
+        System.out.println("Els divendres són un caos (programador A)");
     }
     
     /** Getter for the default implementation of the WordLibrary.
