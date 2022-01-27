@@ -23,6 +23,7 @@ package com.toy.anagrams.lib;
 
 /**
  * Implementation of the logic for the Anagram Game application.
+ * un altre canvi a la branca Bernat
  * HOLA
  */
 final class StaticWordLibrary extends WordLibrary {

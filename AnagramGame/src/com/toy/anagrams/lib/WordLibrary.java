@@ -45,7 +45,7 @@ public abstract class WordLibrary {
     }
 
 	public String getString(){
-		 return "HOLA";
+		 return "HOLA"+123123;
 	
 	}
 
