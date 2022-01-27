@@ -69,6 +69,7 @@ public abstract class WordLibrary {
      */
     public abstract int getSize();
 
+//Bernat
     /**
      * Checks whether a user's guess for a word at the given index is correct.
      * @param idx index of the word guessed
