@@ -44,6 +44,11 @@ public abstract class WordLibrary {
         return StaticWordLibrary.DEFAULT;
     }
 
+	public String getString(){
+		 return "HOLA";
+	
+	}
+
     /**
      * Gets the word at a given index.
      * @param idx index of required word
