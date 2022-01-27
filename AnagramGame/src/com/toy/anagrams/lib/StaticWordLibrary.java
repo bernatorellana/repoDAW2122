@@ -28,6 +28,8 @@ package com.toy.anagrams.lib;
  */
 final class StaticWordLibrary extends WordLibrary {
 
+
+// KATERINE
     private static final String[] WORD_LIST = {
         "abstraction",
         "ambiguous",
