@@ -33,6 +33,8 @@ public abstract class WordLibrary {
      */
     protected WordLibrary() {
         System.out.println("Els divendres són un caos (programador A)");
+		// Comentari dins de la branca Bernat
+		
     }
     
     /** Getter for the default implementation of the WordLibrary.
