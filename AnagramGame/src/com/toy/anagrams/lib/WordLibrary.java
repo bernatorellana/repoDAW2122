@@ -76,4 +76,8 @@ public abstract class WordLibrary {
      * @return true if the guess was correct; false otherwise
      */
     public abstract boolean isCorrect(int idx, String userGuess);
+	
+	
+	public void saluda(){
+	}
 }
